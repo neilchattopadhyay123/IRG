@@ -1,0 +1,64 @@
+<nav class="irg-sidebar-nav">
+
+  <div class="irg-sidebar-section">
+    <a href="{{ '/' | relative_url }}"
+       class="irg-sidebar-home {% if page.url == '/' %}irg-sidebar-active{% endif %}">
+      Landing
+    </a>
+  </div>
+
+  <div class="irg-sidebar-section">
+    <span class="irg-sidebar-heading">AI Code Assistants</span>
+    <ul>
+      <li>
+        <a href="{{ '/ai-code-assistants/claude-code/' | relative_url }}"
+           class="{% if page.url contains 'claude-code' %}irg-sidebar-active{% endif %}">
+          Claude Code Docs
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/ai-code-assistants/github-copilot/' | relative_url }}"
+           class="{% if page.url contains 'github-copilot' %}irg-sidebar-active{% endif %}">
+          GitHub Copilot Docs
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="irg-sidebar-section">
+    <span class="irg-sidebar-heading">AI Frameworks &amp; Architecture</span>
+    <ul>
+      <li>
+        <a href="{{ '/ai-frameworks-architecture/deeplearning-ai/' | relative_url }}"
+           class="{% if page.url contains 'deeplearning' %}irg-sidebar-active{% endif %}">
+          DeepLearning.AI Multi-Agent Systems
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/ai-frameworks-architecture/agentic-ai/' | relative_url }}"
+           class="{% if page.url contains 'agentic' %}irg-sidebar-active{% endif %}">
+          Agentic.ai Platform Directory
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="irg-sidebar-section">
+    <span class="irg-sidebar-heading">Production Readiness</span>
+    <ul>
+      <li>
+        <a href="{{ '/production-readiness/langchain-academy/' | relative_url }}"
+           class="{% if page.url contains 'langchain' %}irg-sidebar-active{% endif %}">
+          LangChain Academy
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/production-readiness/lm-market-cap/' | relative_url }}"
+           class="{% if page.url contains 'lm-market' %}irg-sidebar-active{% endif %}">
+          LM Market Cap
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</nav>

@@ -1,0 +1,18 @@
+title: ENGL 202C IRG
+description: Interactive Resource Guide
+url: "https://neilchattopadhyay123.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:path/
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
