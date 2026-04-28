@@ -52,7 +52,7 @@ You do not need:
 ## Tips for Using This Guide
 
 - **Start with your workflow**: If you code in an IDE, begin with AI Code Assistants. If you're planning a new project, go to AI Frameworks and Architecture.
-- **Return often**: The AI ecosystem changes weekly—bookmark this guide and check back for updates.
+- **Return often**: The AI ecosystem changes weekly. Bookmark this guide and check back for updates.
 - **Use as a reference**: When you hit a specific challenge (like debugging an AI chain), jump to the relevant category.
 
 ---

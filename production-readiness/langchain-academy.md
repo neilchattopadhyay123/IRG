@@ -17,7 +17,7 @@ The course centers on LangSmith, a platform for tracing and debugging LLM applic
 
 ## Relevance to Your Work
 
-A major challenge for using LLMs is the unpredictable nature of the output. The code might work once and fail the next time. This resource is essential because it teaches how to manage the uncertainty of LLMs. Before shipping any AI-powered feature, you need to know that it works consistently across edge cases—this course shows you how.
+A major challenge for using LLMs is the unpredictable nature of the output. The code might work once and fail the next time. This resource is essential because it teaches how to manage the uncertainty of LLMs. Before shipping any AI-powered feature, you need to know that it works consistently across edge cases. This course shows you how.
 
 ## Tips for Effective Use
 

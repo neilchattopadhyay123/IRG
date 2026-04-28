@@ -17,7 +17,7 @@ The documentation explains how to create a **CLAUDE.md** file, which acts as a p
 
 ## Relevance to Your Work
 
-This resource is for developers who want to move beyond chat interfaces to terminal-based automation. It provides the technical steps to let an AI read, write, and execute commands in your actual development environment. Rather than copying code snippets manually, Claude Code can refactor entire modules, run your test suite, and commit to version control—all from a single prompt.
+This resource is for developers who want to move beyond chat interfaces to terminal-based automation. It provides the technical steps to let an AI read, write, and execute commands in your actual development environment. From refactoring entire modules to running your test suite and committing to version control, Claude Code can handle it all from a single prompt.
 
 ## Tips for Effective Use
 
