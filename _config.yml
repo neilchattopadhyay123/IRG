@@ -1,6 +1,8 @@
 title: ENGL 202C IRG
 description: Interactive Resource Guide
 url: "https://neilchattopadhyay123.github.io"
+baseurl: "/IRG"
+repository: "neilchattopadhyay123/IRG"
 
 markdown: kramdown
 highlighter: rouge
