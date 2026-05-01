@@ -6,36 +6,28 @@ hide_toc: true
 
 # Internet Resource Guide: AI Tools for Developers
 
-This guide is designed for **developers and computer science students** who want to understand and leverage AI tools in their engineering workflows. Whether you're just starting to explore AI-assisted coding or building complex multi-agent systems, this guide curates six essential resources covering tools, frameworks, learning materials, and market intelligence.
+This guide is designed for **students within the field of software** who want to understand and leverage AI tools in their software development workflows. Whether you're just starting to explore AI-assisted coding or building complex multi-agent systems, this guide curates six essential resources covering tools, frameworks, learning materials, and market intelligence.
 
 ## What This Guide Covers
 
-This Internet Resource Guide provides:
+This Internet Resource Guide covers:
 
 - **Tool Documentation**: Step-by-step guides to AI code assistants that integrate into your IDE and terminal
 - **Learning Resources**: Courses and frameworks for building advanced AI systems
-- **Production Guidance**: Best practices for deploying and evaluating AI-powered software
 - **Market Intelligence**: Real-time data on LLM pricing, performance, and capabilities
-
-## Who This Guide Is For
-
-- Computer science and engineering students exploring AI-assisted development
-- Developers transitioning from AI chat interfaces to automated workflows
-- Teams building or evaluating AI-powered software products
-- Anyone seeking current, practical resources in a rapidly evolving AI landscape
 
 ## How This Guide Is Organized
 
 Resources are grouped into three categories:
 
 1. **AI Code Assistants**: Tools that integrate directly into your development environment
-2. **AI Frameworks and Architecture**: Learning materials and platforms for building intelligent systems
-3. **Production Readiness**: Resources for deployment, evaluation, and cost optimization
+2. **AI Frameworks and Architecture**: Learning materials and courses for building production ready systems using AI frameworks
+3. **Market Intelligence**: Resources for real time information on model deployment, evaluation, and cost optimization
 
 Each resource includes:
 - A direct link to the site
 - A detailed abstract explaining what the resource contains
-- Specific tips for using it effectively in your projects
+- Specific tips for using the resource
 
 ## What This Guide Assumes
 

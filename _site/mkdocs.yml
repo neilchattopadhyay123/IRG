@@ -1,0 +1,49 @@
+site_name: ENGL 202C IRG
+site_description: Interactive Resource Guide
+site_url: https://neilchattopadhyay123.github.io/
+repo_url: https://github.com/neilchattopadhyay123/neilchattopadhyay123.github.io
+repo_name: neilchattopadhyay123/neilchattopadhyay123.github.io
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - content.code.copy
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+  font:
+    text: Space Grotesk
+    code: JetBrains Mono
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/neilchattopadhyay123
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Landing: index.md
+  - Research Foundations:
+      - Audience Analysis: research-foundations/audience-analysis.md
+      - Source Evaluation: research-foundations/source-evaluation.md
+  - Writing Craft:
+      - Thesis Development: writing-craft/thesis-development.md
+      - Revision Strategy: writing-craft/revision-strategy.md
+  - Delivery and Impact:
+      - Slide Storytelling: delivery-impact/slide-storytelling.md
+      - Citation and Ethics: delivery-impact/citation-ethics.md
