@@ -20,8 +20,8 @@ dist/
 .pytest_cache/
 .mypy_cache/
 
-# MkDocs build output
-site/
+# Jekyll build output
+_site/
 
 # Editor and OS files
 .vscode/
