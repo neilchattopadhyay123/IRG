@@ -25,6 +25,6 @@ For students, this is especially relevant because it shows how modern software t
 
 ## Tips for Effective Use
 
-- **Start with the What is Github Copilot and Quickstart sections** to understand what GitHub Copilot is and how it fits into your IDE before diving into advanced features.
+- **Start with the What is Github Copilot? and Quickstart sections** to understand what GitHub Copilot is and how it fits into your IDE before diving into advanced features.
 - **Follow the documentation structure.** Move from *Concepts → How-tos → Reference → Tutorials* so you don't get lost trying to understand GitHub Copilot
 - **Practice while reading the docs.** The Copilot documentation is designed for hands-on learning, so open your IDE and try the examples as you go instead of just reading them.
