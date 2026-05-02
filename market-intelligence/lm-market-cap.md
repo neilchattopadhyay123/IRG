@@ -13,7 +13,7 @@ LM Market Cap is a data-tracking website that provides real-time stats on Large 
 
 ## Content and Scope
 
-The site tracks specific metrics including cost per million tokens, context window size, and output speed (latency). It also features leaderboards that rank models based on their ability to write code or follow complex instructions, using data from real-world testing environments.
+The site tracks specific metrics including cost per million tokens, context window size, output speed, and latency. It also features leaderboards that rank models based on their ability to write code or follow complex instructions, using data from real-world testing environments.
 
 ## Relevance to Your Work
 
