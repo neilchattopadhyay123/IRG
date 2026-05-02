@@ -5,7 +5,7 @@ title: "Vibe Coding Essentials: Build Apps with AI"
 
 # Vibe Coding Essentials: Build Apps with AI
 
-**Link:** [https://www.coursera.org/specializations/vibe-coding](https://www.coursera.org/specializations/vibe-coding)
+**Link:** <a href="https://www.coursera.org/specializations/vibe-coding" target="_blank">https://www.coursera.org/specializations/vibe-coding</a>
 
 ## What Is This?
 

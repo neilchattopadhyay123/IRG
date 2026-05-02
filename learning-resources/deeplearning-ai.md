@@ -5,7 +5,7 @@ title: DeepLearning.AI Multi-Agent Systems
 
 # DeepLearning.AI: Multi-Agent Systems Course
 
-**Link:** [https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/](https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/)
+**Link:** <a href="https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/" target="_blank">https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/</a>
 
 ## What Is This?
 

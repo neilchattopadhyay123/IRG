@@ -5,7 +5,7 @@ title: LM Market Cap
 
 # LM Market Cap: LLM Pricing and Performance Data
 
-**Link:** [https://lmmarketcap.com/](https://lmmarketcap.com/)
+**Link:** <a href="https://lmmarketcap.com/" target="_blank">https://lmmarketcap.com/</a>
 
 ## What Is This?
 

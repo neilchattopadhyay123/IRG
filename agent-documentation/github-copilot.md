@@ -5,7 +5,7 @@ title: GitHub Copilot Docs
 
 # GitHub Copilot Docs
 
-**Link:** [https://docs.github.com/copilot](https://docs.github.com/copilot)
+**Link:** <a href="https://docs.github.com/copilot" target="_blank">https://docs.github.com/copilot</a>
 
 ## What Is This?
 

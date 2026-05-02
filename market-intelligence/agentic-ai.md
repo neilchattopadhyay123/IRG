@@ -5,7 +5,7 @@ title: Agentic.ai Platform Directory
 
 # Agentic.ai: Agent Platform Directory
 
-**Link:** [https://agentic.ai/](https://agentic.ai/)
+**Link:** <a href="https://agentic.ai/" target="_blank">https://agentic.ai/</a>
 
 ## What Is This?
 

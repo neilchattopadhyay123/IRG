@@ -5,7 +5,7 @@ title: Claude Code Docs
 
 # Claude Code Docs
 
-**Link:** [https://code.claude.com/docs](https://code.claude.com/docs)
+**Link:** <a href="https://code.claude.com/docs" target="_blank">https://code.claude.com/docs</a>
 
 ## What Is This?
 
