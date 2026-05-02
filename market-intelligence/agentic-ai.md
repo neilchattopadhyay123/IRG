@@ -21,6 +21,6 @@ This resource is useful because it helps developers identify which frameworks an
 
 ## Tips for Effective Use
 
-- **Use the "Agenticness Score"** to see if how autonomous an agent is
+- **Use the "Agenticness Score"** to see how independently an AI system can act rather than just respond to prompts. This is the most important measure for evaluating an agentic tool.
 - **Visit the "Agent Infrastructure" category** if you need solutions for saving agent state (memory) or running untrusted code in a secure environment.
 - **Compare different Coding Agents** in their guide section to see which ones support specific features like terminal access or multi-file editing.
