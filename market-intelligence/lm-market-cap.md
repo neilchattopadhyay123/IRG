@@ -13,7 +13,7 @@ LM Market Cap is a data-tracking website that provides real-time stats on Large 
 
 ## Content and Scope
 
-The site tracks specific metrics including **cost per million tokens**, context window size, and output speed (latency). It also features leaderboards that rank models based on their ability to write code or follow complex instructions, using data from real-world testing environments rather than just theoretical benchmarks.
+The site tracks specific metrics including cost per million tokens, context window size, and output speed (latency). It also features leaderboards that rank models based on their ability to write code or follow complex instructions, using data from real-world testing environments.
 
 ## Relevance to Your Work
 
@@ -21,6 +21,6 @@ Because model pricing and capabilities change almost weekly, this site is essent
 
 ## Tips for Effective Use
 
-- **Check the "Price per 1M Tokens" column regularly** to optimize your API spend; switching to a more efficient model can significantly lower your project costs.
+- **Check the "Price per 1M Tokens" column regularly** to optimize your API spend. Switching to a more efficient model can significantly lower your project costs.
 - **Look at the "Coding" specific rankings** if your project involves software development, as these models are tested on their ability to handle syntax and logic.
-- **Use the comparison tool** to view two models side-by-side to see the trade-off between reasoning capability and response speed.
+- **Use the comparison tool** to view two models side-by-side to see a full comparison of the capabilities and costs of the two models

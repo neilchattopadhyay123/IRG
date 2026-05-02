@@ -9,7 +9,7 @@ title: Agentic.ai Platform Directory
 
 ## What Is This?
 
-Agentic.ai is a directory and rating platform for AI tools that can perform autonomous actions. It focuses specifically on "agents" software that uses LLMs to plan tasks, use external tools, and execute workflows without constant human prompting. It's a resource for finding specialized agents for coding, research, and business operations.
+Agentic.ai is a directory and rating platform for AI tools that can perform autonomous actions. It focuses specifically on AI agents that uses LLMs to plan tasks, use external tools, and execute workflows without constant human prompting. It's a resource for finding specialized agents for coding, research, and business operations.
 
 ## Content and Scope
 
@@ -17,10 +17,10 @@ The platform evaluates tools using a 32-point scoring system that measures how w
 
 ## Relevance to Your Work
 
-This resource is useful because it distinguishes between basic chat interfaces and systems capable of doing actual work. It helps builders identify which frameworks and infrastructures are stable enough for professional use. When you're deciding whether to use a specific agent framework or infrastructure for your project, Agentic.ai provides independent evaluation data.
+This resource is useful because it helps developers identify which frameworks and infrastructures are stable enough for professional use. When you're deciding whether to use a specific agent framework or infrastructure for your project, Agentic.ai provides independent evaluation data which can guide your decision-making process for agent adoption.
 
 ## Tips for Effective Use
 
-- **Use the "Agenticness Score"** to see if a tool is truly autonomous or just a simple interface for a model.
+- **Use the "Agenticness Score"** to see if how autonomous an agent is
 - **Visit the "Agent Infrastructure" category** if you need solutions for saving agent state (memory) or running untrusted code in a secure environment.
 - **Compare different Coding Agents** in their guide section to see which ones support specific features like terminal access or multi-file editing.

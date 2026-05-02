@@ -5,7 +5,7 @@ title: DeepLearning.AI Multi-Agent Systems
 
 # DeepLearning.AI: Multi-Agent Systems Course
 
-**Link:** [https://www.deeplearning.ai/courses/](https://www.deeplearning.ai/courses/)
+**Link:** [https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/](https://www.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/)
 
 ## What Is This?
 
@@ -21,6 +21,5 @@ For most projects, a single prompt is rarely sufficient for production-grade sof
 
 ## Tips for Effective Use
 
-- **Don't just watch the videos**; focus on the Task Delegation logic in the provided Jupyter Notebooks.
-- **Try to replace one of the default agent roles** with a custom role relevant to your own coursework (e.g., a "Security Auditor" agent for your web-dev project).
-- **Pay close attention to how "Manager" agents are used** to oversee the process, as this is the key to preventing infinite loops or hallucinated code in complex agentic workflows.
+- **Don't just watch the videos**; Study the provided Jupyter Notebooks and add your own changes.
+- **Pay close attention to role-based design.** Most of the power in CrewAI comes from splitting work into specialized agents (like researcher, writer, reviewer). Make sure you understand why each role exists, not just how to code it.
